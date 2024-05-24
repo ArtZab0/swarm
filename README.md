@@ -15,7 +15,7 @@ and shares portions of codebase with it.
 
 Instructions to replicate the experiments on large-scale language model pretraining and throughput estimation on
 multiple preemptible nodes, as well as the prototype implementation of SWARM, are located in
-the [swarm](./swarm) subfolder.
+the [swarm](./swarm) subfolder..
 
 # Bottleneck experiments
 
